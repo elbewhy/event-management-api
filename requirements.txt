@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
+passlib[bcrypt]
+python-jose[cryptography]
+slowapi
+pytest

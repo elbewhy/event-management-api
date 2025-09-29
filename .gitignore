@@ -1,0 +1,13 @@
+# Python environments and artifacts
+__pycache__/
+.venv/
+venv/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# Secret and Database Files (CRITICAL to ignore for security)
+.env
+.env.example
+*.db
